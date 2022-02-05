@@ -275,7 +275,7 @@
 
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-	  <Exec Command="xcopy $(TargetPath) $(SolutionDir)\..\..\outsource\rainbow-halloween-slushy\RainbowSlushy\Assets\FSharp\ /Y&#xD;&#xA;" />
+	  <Exec Command="xcopy $(TargetPath) $(SolutionDir)\..\..\outsource\rainbow-halloween-slushy\RainbowSlushy\Assets\Core\ /Y&#xD;&#xA;" />
   </Target>
 
 </Project>
