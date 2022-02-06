@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rg7Yvc9udwgf3+708HeIxRNCB6A56r3uXxniRD2HpSF/BH25RWKF35thNvTzqDZKXSLibM1yBvPw5cDsLdYNaQ==",
+  "success": true,
+  "projectFilePath": "/home/chickendev/Desktop/Repos/fsharp-unity-library/FsharpForFun/FSharpForFun/FSharpForFun/FSharpForFun.fsproj",
+  "expectedPackageFiles": [
+    "/home/chickendev/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
