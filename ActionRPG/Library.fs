@@ -2,14 +2,14 @@
 
 open UnityEngine
 
-type ButtonManager() =
+type TestFuture() =
    inherit MonoBehaviour()
    
    [<SerializeField>]
    [<DefaultValue>] val mutable _informationText : GameObject
 
     member this.Start() = 
-        Debug.Log("F# ")
+        Debug.Log("Say hello from FSharp ")
 
     member this.Update() = 
         Debug.Log("hello man")
